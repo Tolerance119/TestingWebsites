@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\ClassLibrary1\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

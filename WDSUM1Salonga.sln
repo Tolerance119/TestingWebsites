@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDSUM1Salonga", "WDSUM1Salonga\WDSUM1Salonga.csproj", "{09CA7C6E-B9DF-4861-88DB-38F20142D0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManager", "DataManager\DataManager.csproj", "{BCA6718D-D521-44AC-B777-C11E4268A5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CA7C6E-B9DF-4861-88DB-38F20142D0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CA7C6E-B9DF-4861-88DB-38F20142D0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CA7C6E-B9DF-4861-88DB-38F20142D0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CA7C6E-B9DF-4861-88DB-38F20142D0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA6718D-D521-44AC-B777-C11E4268A5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA6718D-D521-44AC-B777-C11E4268A5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA6718D-D521-44AC-B777-C11E4268A5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA6718D-D521-44AC-B777-C11E4268A5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

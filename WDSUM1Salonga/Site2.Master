@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="WDSUM1Salonga.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Assets/bitter_sweet/default.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+        </div>
+        <div class="container">
+
+	<div class="top">
+		<a href="index.html"><span></span></a>
+	</div>
+	
+	<div class="header"></div>
+		
+	<div class="main">
+
+		<div class="item">
+
+			<div class="date">
+				<div>STEP</div>
+				<span>2</span>
+			</div>
+
+			<div class="content">
+
+				<h1>Welcome to Car Loan Calculator</h1>
+
+				<div class="body">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        
+                    </asp:ContentPlaceHolder>
+					<asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+
+					</asp:ContentPlaceHolder>
+                    
+				</div>
+
+			</div>
+            
+
+		</div>
+		
+		
+
+	</div>
+
+	<div class="navigation">
+
+		<h1>SECTION</h1>
+		<ul>
+			<li><a href="RegistrationWebPage.aspx">Registration</a></li>
+			<li><a href="LoginWebPage.aspx">Login</a></li>
+			
+		</ul>
+
+		
+
+	</div>
+	
+	<div class="clearer"><span></span></div>
+    <div></div>
+    
+	<div class="footer">&copy; 2022 . Made by Jemmuel F. Salonga. BIT32 Template design by <a href="http://templates.arcsin.se">Arcsin</a>
+	</div>
+
+</div>
+        <div>
+            
+        </div>
+    </form>
+</body>
+</html>

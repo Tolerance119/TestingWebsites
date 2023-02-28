@@ -1,0 +1,18 @@
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\bin\WDSUM1Salonga.dll.config
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\bin\WDSUM1Salonga.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\bin\WDSUM1Salonga.pdb
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\bin\DataManager.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\bin\DataManager.pdb
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.pdb
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.dll
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\bin\WDSUM1Salonga.dll.config
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\bin\WDSUM1Salonga.dll
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\bin\WDSUM1Salonga.pdb
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\bin\DataManager.dll
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\bin\DataManager.pdb
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WDSUM1Salonga\WDSUM1Salonga\obj\Debug\WDSUM1Salonga.pdb

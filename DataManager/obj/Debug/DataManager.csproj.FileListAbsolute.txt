@@ -1,0 +1,11 @@
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\DataManager\bin\Debug\DataManager.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\DataManager\bin\Debug\DataManager.pdb
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\DataManager\obj\Debug\DataManager.dll
+c:\users\student\documents\visual studio 2013\Projects\WDSUM1Salonga\DataManager\obj\Debug\DataManager.pdb
+C:\Users\ASUS\source\repos\WDSUM1Salonga\DataManager\bin\Debug\DataManager.dll
+C:\Users\ASUS\source\repos\WDSUM1Salonga\DataManager\bin\Debug\DataManager.pdb
+C:\Users\ASUS\source\repos\WDSUM1Salonga\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WDSUM1Salonga\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WDSUM1Salonga\DataManager\obj\Debug\DataManager.dll
+C:\Users\ASUS\source\repos\WDSUM1Salonga\DataManager\obj\Debug\DataManager.pdb
